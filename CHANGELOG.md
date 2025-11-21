@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-20)
+## Unreleased (2025-11-21)
 
 <section class="commits">
 
@@ -12,11 +12,12 @@
 
 <details>
 
+-   [`2cabe18`](https://github.com/stdlib-js/stdlib/commit/2cabe1887e6a502a306b70580fb5d038da0917f3) - **docs:** fix return values in TSDoc return annotation comments _(by Philipp Burckhardt)_
 -   [`e678757`](https://github.com/stdlib-js/stdlib/commit/e678757c9a62631a907278ec13a5d7b27c0f1e15) - **docs:** fix return annotation values _(by Philipp Burckhardt)_
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
--   [`b51a457`](https://github.com/stdlib-js/stdlib/commit/b51a457474fb3527c628001639fc4e1174ed45e4) - **bench:** update random value generation [(#7010)](https://github.com/stdlib-js/stdlib/pull/7010) _(by Harsh)_
--   [`828cfd5`](https://github.com/stdlib-js/stdlib/commit/828cfd594d771e9d1ba2af3e80af0021f0b7fd8f) - **docs:** replace manual `for` loop in examples [(#6922)](https://github.com/stdlib-js/stdlib/pull/6922) _(by Harsh)_
+-   [`b51a457`](https://github.com/stdlib-js/stdlib/commit/b51a457474fb3527c628001639fc4e1174ed45e4) - **bench:** update random value generation [(#7010)](https://github.com/stdlib-js/stdlib/pull/7010) _(by Harsh Yadav)_
+-   [`828cfd5`](https://github.com/stdlib-js/stdlib/commit/828cfd594d771e9d1ba2af3e80af0021f0b7fd8f) - **docs:** replace manual `for` loop in examples [(#6922)](https://github.com/stdlib-js/stdlib/pull/6922) _(by Harsh Yadav)_
 -   [`b3540a8`](https://github.com/stdlib-js/stdlib/commit/b3540a8ffa4c9cd3122e660a68dcbe286330b5e6) - **bench:** refactor random number generation in `stats/base/dists/chi` [(#4853)](https://github.com/stdlib-js/stdlib/pull/4853) _(by Karan Anand)_
 
 </details>
@@ -31,7 +32,7 @@
 
 A total of 3 people contributed to this release. Thank you to the following contributors:
 
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
 
