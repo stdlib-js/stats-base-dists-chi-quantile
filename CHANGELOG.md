@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-21)
+## Unreleased (2026-11-08)
+
+<section class="features">
+
+### Features
+
+-   [`53bcb81`](https://github.com/stdlib-js/stdlib/commit/53bcb8178d63c62ee80f1943c985e4680918dbb0) - add C implementation for `stats/base/dists/chi/quantile` [(#14660)](https://github.com/stdlib-js/stdlib/pull/14660)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`53bcb81`](https://github.com/stdlib-js/stdlib/commit/53bcb8178d63c62ee80f1943c985e4680918dbb0) - **feat:** add C implementation for `stats/base/dists/chi/quantile` [(#14660)](https://github.com/stdlib-js/stdlib/pull/14660) _(by Philipp Burckhardt, Karan Anand)_
 -   [`65a5d15`](https://github.com/stdlib-js/stdlib/commit/65a5d155944a423ba8d9e564fefb839c2e949544) - **test:** migrate `stats/base/dists/chi/quantile` to ULP-based assertions [(#14086)](https://github.com/stdlib-js/stdlib/pull/14086) _(by Philipp Burckhardt)_
 -   [`6a4d961`](https://github.com/stdlib-js/stdlib/commit/6a4d9614841138f791bfad6fc7d694dffff81a6c) - **docs:** propagate recent doc fixes across `stats/base/dists/*` [(#11815)](https://github.com/stdlib-js/stdlib/pull/11815) _(by Philipp Burckhardt)_
 -   [`81fd782`](https://github.com/stdlib-js/stdlib/commit/81fd7822d544bff51fccb618844e07f7edf31e8b) - **bench:** use string interpolation in `stats/base/dists/chi` [(#10171)](https://github.com/stdlib-js/stdlib/pull/10171) _(by Om-A-osc)_
@@ -26,8 +37,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Karan Anand
 -   Om-A-osc
 -   Philipp Burckhardt
 
